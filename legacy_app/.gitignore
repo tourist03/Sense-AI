@@ -6,6 +6,7 @@ __pycache__/
 *.pyc
 news-ui/node_modules/
 news-ui/dist/
+news-ui/demo-dist/
 frontend/dist/
 python_embed/
 App_Portable/
