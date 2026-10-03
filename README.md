@@ -1,3 +1,19 @@
+# Sense.AI — news intelligence & editorial workspace
+
+This tourist03 copy preserves the original project history and adds a public, browser-only portfolio demo. Active application code lives in [legacy_app](legacy_app/).
+
+- [Open the sample-data demo](https://tourist03.github.io/Sense-AI/)
+- [View Vineet Singh’s portfolio](https://tourist03.github.io/portfolio/)
+- [Demo setup and limitations](legacy_app/docs/PUBLIC_DEMO.md)
+- [Full Python / Windows deployment guide](legacy_app/CALLIOPE_AMBER_ORBIT.md)
+- [Original repository](https://github.com/stark-craft/velvet-penguin-lantern)
+
+The full application combines a shared news corpus, local semantic clustering and summaries, explainable personal briefings, research discovery, and editable editorial reports. The public demo uses the actual React interface with fictional sample data, prewritten AI text, and browser-local state. It does not connect to internal services or expose runtime records or model files.
+
+---
+
+The original root README follows as historical reference. Its older top-level application and profile-routing instructions are superseded by the active legacy_app code and project-memory instructions.
+
 # newsScrapper
 
 ## Active legacy-compatible application

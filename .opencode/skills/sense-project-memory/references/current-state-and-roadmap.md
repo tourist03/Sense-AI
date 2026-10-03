@@ -656,3 +656,12 @@ real-route light/dark/390px browser checks, analysis-failure-to-impact ordering
 and both manual request paths. This Mac lacks Samsung credentials: manual paths
 show configuration errors without consuming quota. Embedded Windows execution
 and live Samsung answers still require validation on the configured deployment.
+
+
+### 2026-10-03 — tourist03 public portfolio demo
+
+At the user's explicit request, the already-public project was copied to tourist03/Sense-AI with upstream history intact. The original local checkout and its uncommitted report work were left untouched. The new destination and tourist03 authorship are authorized exceptions to this memory's upstream-only Git policy for this fork.
+
+An isolated legacy_app/news-ui/demo entry reuses Sampark with hash routing, fictional news/research fixtures, abstract SVG covers and a browser-only API adapter. Production API wrappers, Python code, catalog, scheduler and runtime behavior are unchanged. The demo blocks live API/provider calls, discards telemetry, and supports browser-local saves, reactions, preferences, research dossiers and editable report drafts. AI passages are labeled prewritten examples. HTML export is provided; other export formats and live backend operations report their limitation. The Pages workflow publishes only demo-dist.
+
+Validation: 265 frontend tests passed, original production build passed, demo build passed, and browser QA covered real news/report/research views, search filtering, draft saves, dark/light themes and 390px layout. The browser download-event API did not confirm the blob export, while the export handler and generated HTML were covered by tests. Full backend and live Samsung services were not redeployed or revalidated. See legacy_app/docs/PUBLIC_DEMO.md.
